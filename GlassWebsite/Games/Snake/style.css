@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.body{
+    background: #ecf0f1;
+}
+.header{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: #ecf0f1;
+}
+.logo{
+    font-family: 'Montserrat';
+    font-size: 50px;
+    color: dodgerblue;
+    text-align: center;
+    transition: color 0.8s;
+    transition: transform 0.8s;
+    border-bottom: 25rem;
+    text-decoration: none;
+}

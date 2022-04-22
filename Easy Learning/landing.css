@@ -1,0 +1,54 @@
+.background{
+    background-image: url(images/e-learning-vector-illustration_95561-13.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 10px;
+}
+section{
+    padding:2rem 7%;
+  }
+  
+  .container{
+    background:#fff;
+    border-radius: .5rem;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.2);
+  }
+  
+  .heading{
+    color:transparent;
+    background:var(--gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    padding:0 1rem;
+    padding-top: 2.5rem;
+    text-align: center;
+    font-size: 4rem;
+    text-transform: uppercase;
+  }
+  
+  .btn{
+    display: inline-block;
+    margin-top: 1rem;
+    padding:.8rem 3rem;
+    border-radius: .5rem;
+    background:#333;
+    color:#fff;
+    cursor: pointer;
+    font-size: 1.7rem;
+  }
+  
+  .btn:hover{
+    background:var(--gradient);
+  }
+  
+  header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding:2rem 7%;
+    border-bottom: .1rem solid rgba(0,0,0,.1);
+    position: relative;
+    z-index: 1000;
+  }
