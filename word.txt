@@ -13,3 +13,47 @@ Privacy policy
 . We reserves the right to send product emails & updates to your email.
 Do not have an account?
 Sign up
+
+
+
+<div class="container-fluid">
+        <nav class="navbar navbar-expand-sm bg-transparent navbar-light">
+            <div class="container">
+              <a class="navbar-brand" href="images/R.png">
+                <img src="images/R.png" alt="Logo" style="width:60px;">
+              </a>
+              <ul class="nav justify-content-end">
+                <li class="nav-item">
+                  <a class="nav-link" href="#" style="color: black;">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: black;">Courses</a>
+                    <ul class="dropdown-menu bg-transparent">
+                      <li><a class="dropdown-item" href="#" style="color: black;">Java</a></li>
+                      <li><a class="dropdown-item" href="#" style="color: black;">HTML 5</a></li>
+                      <li><a class="dropdown-item" href="#" style="color: black;">CSS 3</a></li>
+                      <li><a class="dropdown-item" href="#" style="color: black;">JavaScript</a></li>
+                      <li><a class="dropdown-item" href="#" style="color: black;">Phyton</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#" style="color: black;">About</a>
+                  </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#" style="color: black;">News</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#" style="color: black;">Gallery</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#" style="color: black;">Blog</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#" style="color: black;">Pricing</a>
+                </li>
+                <li>
+                    <a href="SignUp.html" class="btn btn-success btn-sm" style="border-radius: 100px;">Log in</a>
+                </li>
+              </ul>
+          </nav>
+        </div>
