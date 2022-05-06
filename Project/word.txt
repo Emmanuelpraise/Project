@@ -19,3 +19,20 @@ Easy learning is a proven path to your first software developer job.
     If you want to get a developer job or freelance clients, programming skills will be just part of the puzzle. You also need to build your personal network and your reputation as a developer.
     
     You can do this on Twitter and GitHub, and also on the Easy learning forum.
+
+
+
+    <div class="wrap-trigger" id="wrap-search-trigger">
+						<a href="https://search.ets.org/" id="search-trigger" role="button" aria-controls="site-search" aria-label="search form" aria-expanded="false">
+							<svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg>
+							<span class="label hide">Search</span>
+						</a>
+					</div>
+					<div role="search" class="nav-item search" id="site-search">
+						<form action="https://search.ets.org/query.html" name="site-search-form" id="site-search-form" method="post" data-hs-cf-bound="true">
+					<input type="hidden" name="qp" value="url:*/toefl/*">
+							<label for="site-search-form-keyword" class="hide">Search:</label>
+							<input type="text" name="qt" id="site-search-form-keyword" value="" placeholder="Search for…">
+							<button type="submit" style="display: none;"><span class="label">Search</span></button> <a href="https://www.ets.org/toefl" id="site-search-corp-close">Cancel</a>
+						</form>
+					</div>
